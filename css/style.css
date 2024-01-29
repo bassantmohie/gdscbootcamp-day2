@@ -1,0 +1,43 @@
+body {
+  background-color: #7b66ff;
+  /* margin:0; */
+  height: 2000px;
+  font-family: segoe UI light;
+}
+
+.home {
+  background-color: #5fbdff;
+  text-align: center;
+  padding: 20px;
+}
+.div1 {
+  width: 30%;
+  display: inline-block;
+  background-color: blueviolet;
+  border: 3px white solid;
+  padding: 5px;
+}
+.div1 img {
+  width: 100%;
+}
+
+.btn {
+  color: #5fbdff;
+  background-color: #5fbdff;
+  color: white;
+  border-radius: 10px;
+  border: 1px white solid;
+  width: 100px;
+  height: 40px;
+}
+
+.container {
+  height: 450px;
+  margin-top: 50px;
+  /* background-color:red; */
+  background-image: url(../img/img-1.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  opacity: 0-1;
+}
